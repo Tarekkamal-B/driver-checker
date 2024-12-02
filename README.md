@@ -1,6 +1,6 @@
 # Driver License Checker
 
-This is a driver license checker application designed to determine the eligibility of drivers based on specific criteria.
+This is a driver license checker Script designed to determine the eligibility of drivers based on specific criteria.
 
 ## How to Use
 
